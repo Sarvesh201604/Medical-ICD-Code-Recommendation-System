@@ -1,6 +1,6 @@
-# ICD Code Prediction API - FastAPI Conversion Complete
+# ICD Code Prediction API - FastAPI Conversion Required
 
-## 🚀 Your Application is Now a FastAPI Service!
+## 🚀 Your Application is Now a FastAPI Service if adopted!
 
 Your Flask medical ICD application has been converted to **FastAPI** with the following improvements:
 
