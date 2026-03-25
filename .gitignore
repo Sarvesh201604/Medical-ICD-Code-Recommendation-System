@@ -13,7 +13,7 @@ venv/
 env/
 .venv/
 deepseek/
-trial/
+# trial/ removed to allow semantic_initial_phase/trial/data
 
 # Large binary files (too big for GitHub)
 *.pkl
