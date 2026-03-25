@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+deepseek/
+trial/
+
+# Large binary files (too big for GitHub)
+*.pkl
+*.index
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis docs (optional - remove these lines if you want them in the repo)
+PROJECT_FILE_ANALYSIS.md
+SONOCARE_WORKFLOW_ANALYSIS.md
+HARDCODED_PATHS_MIGRATION.md

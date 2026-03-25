@@ -1,0 +1,18 @@
+{
+  "description": "Canonical ICD code mappings for consistent recommendations",
+  "mappings": {
+    "NORMAL PREGNANCY 1ST TRIMESTER": "NL15.1",
+    "NORMAL PREGNANCY 2ND TRIMESTER": "NL15.2",
+    "NORMAL PREGNANCY 3RD TRIMESTER": "NL15.3",
+    "PREGNANCY 1ST TRIMESTER NORMAL": "NL15.1",
+    "PREGNANCY 2ND TRIMESTER NORMAL": "NL15.2",
+    "PREGNANCY 3RD TRIMESTER NORMAL": "NL15.3",
+    "NORMAL HEART": "NL13.0",
+    "NORMAL CARDIAC": "NL13.0",
+    "STRUCTURALLY NORMAL HEART": "NL13.0",
+    "NORMAL LIVER": "NL10.0",
+    "NORMAL UPPER ABDOMEN": "NL10.0",
+    "NORMAL ABDOMEN": "NL10.0"
+  },
+  "usage": "When semantic search finds similar impressions, use these canonical codes"
+}

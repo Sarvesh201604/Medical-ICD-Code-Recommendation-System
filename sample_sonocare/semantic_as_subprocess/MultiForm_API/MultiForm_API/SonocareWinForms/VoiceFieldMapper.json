@@ -1,0 +1,132 @@
+{
+  "ReportForm": {
+    "txtBpd": [
+      "bpd",
+      "vpd",
+      "bp d",
+      "biparietal diameter"
+    ],
+    "txtHc": [
+      "hc",
+      "h c",
+      "head circumference"
+    ],
+    "txtAc": [
+      "ac",
+      "a c",
+      "abdominal circumference"
+    ],
+    "txtFl": [
+      "fl",
+      "f l",
+      "femur length"
+    ],
+    "txtFhr": [
+      "fhr",
+      "f h r",
+      "fetal heart rate",
+      "heart rate"
+    ],
+    "txtComments": [
+      "remarks",
+      "comment",
+      "comments"
+    ],
+    "rtbSummary": [
+      "summary",
+      "final summary",
+      "impression summary",
+      "notes",
+      "final notes"
+    ],
+    "rbMale": [
+      "male"
+    ],
+    "rbFemale": [
+      "female"
+    ],
+    "rbOther": [
+      "other",
+      "others"
+    ],
+    "txtGa": [
+      "ga",
+      "g a",
+      "gestational age"
+    ],
+    "txtPlacenta": [
+      "placenta"
+    ],
+    "txtAfi": [
+      "afi",
+      "a f i",
+      "amniotic fluid index"
+    ],
+    "txtPresentation": [
+      "presentation"
+    ],
+    "txtEfw": [
+      "efw",
+      "e f w",
+      "estimated fetal weight",
+      "fetal weight"
+    ],
+    "cmbScanType": [
+      "scan type",
+      "scan"
+    ],
+    "cmbTemplate": [
+      "template",
+      "final template",
+      "impression template"
+    ],
+    "btnSave": [
+      "save",
+      "save report",
+      "done",
+      "exit comments"
+    ],
+    "btnCancel": [
+      "cancel"
+    ],
+    "fieldBPD_value": [
+      "impression bpd",
+      "final bpd",
+      "impression biparietal diameter"
+    ],
+    "fieldHC_value": [
+      "impression hc",
+      "final hc",
+      "impression head circumference"
+    ],
+    "fieldAC_value": [
+      "impression ac",
+      "final ac",
+      "impression abdominal circumference"
+    ],
+    "fieldFL_value": [
+      "impression fl",
+      "final fl",
+      "impression femur length"
+    ],
+    "dgvBiometryHistory": [
+      "grid",
+      "biometry grid",
+      "biometry history",
+      "history grid",
+      "data grid",
+      "case grid",
+      "cases"
+    ],
+    "_grid_dgvBiometryHistory_rowPattern": [
+      "case"
+    ],
+    "_grid_dgvBiometryHistory_columns": [
+      "BPD",
+      "HC",
+      "AC",
+      "FL",
+      "FHR"
+    ]
+  }
+}

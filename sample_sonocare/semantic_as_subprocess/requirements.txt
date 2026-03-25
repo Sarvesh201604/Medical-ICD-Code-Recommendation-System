@@ -1,0 +1,17 @@
+sentence-transformers==2.2.2
+faiss-cpu
+pandas
+numpy
+langchain
+fastapi
+uvicorn
+pypdf
+python-dotenv
+chromadb
+langchain-community
+langchain-huggingface
+# langchain-groq
+llama-cpp-python
+langchain_experimental
+pydantic
+-e .
